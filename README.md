@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on mastering my IT skills
+- 🌱 I’m currently learning Ruby on Rails and Javascript
+- 👯 I will be more than happy to collaborate on any IT projects that has potential for my growth
+- 🤔 I’m looking for help with getting into IT field
+- 💬 Ask me about anything!
+- 📫 How to reach me: eugenia.pastore@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I am writing amagazine about my adventures for my grandad!
+
 <!--
 **EugyPastore/EugyPastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
