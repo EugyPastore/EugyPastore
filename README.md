@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with getting into IT field
 - 💬 Ask me about anything!
 - 📫 How to reach me: eugenia.pastore@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am writing amagazine about my adventures for my grandad!
 
 <!--
