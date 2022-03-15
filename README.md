@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Ruby on Rails and Javascript
 - 👯 I will be more than happy to collaborate on any IT projects that has potential for my growth
 - 🤔 I’m looking for help with getting into IT field
-- 💬 Ask me about anything!
+- 💬 Let's network and collaborate!
 - 📫 How to reach me: eugenia.pastore@gmail.com
 - ⚡ Fun fact: I am writing amagazine about my adventures for my grandad!
 
