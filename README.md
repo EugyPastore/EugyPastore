@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my page 👋
 - 🌱 I’m currently learning Ruby on Rails and Javascript
 - 👯 I will be more than happy to collaborate on any IT projects that has potential for my growth
 - 💬 Let's network and collaborate!
