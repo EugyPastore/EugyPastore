@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on mastering my IT skills
 - 🌱 I’m currently learning Ruby on Rails and Javascript
 - 👯 I will be more than happy to collaborate on any IT projects that has potential for my growth
-- 🤔 I’m looking for help with getting into IT field
 - 💬 Let's network and collaborate!
 - 📫 How to reach me: eugenia.pastore@gmail.com
 - ⚡ Fun fact: I am writing a magazine about my travel adventures for my grandad to read!
