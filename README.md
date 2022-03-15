@@ -1,6 +1,6 @@
 ### Welcome to my page 👋
-- 🌱 I’m currently learning Ruby on Rails and Javascript
-- 👯 I will be more than happy to collaborate on any IT projects that has potential for my growth
+- 🌱 I’m Ruby on Rails developer.
+- 👯 I will be more than happy to collaborate on any IT project that has potential for my growth
 - 💬 Let's network!
 - 📫 How to reach me: eugenia.pastore@gmail.com
 - ⚡ Fun fact: I am writing a magazine about my travel adventures for my grandad to read!
