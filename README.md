@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with getting into IT field
 - 💬 Let's network and collaborate!
 - 📫 How to reach me: eugenia.pastore@gmail.com
-- ⚡ Fun fact: I am writing amagazine about my adventures for my grandad!
+- ⚡ Fun fact: I am writing a magazine about my travel adventures for my grandad to read!
 
 <!--
 **EugyPastore/EugyPastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
