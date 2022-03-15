@@ -7,7 +7,6 @@
 - 💬 Let's network and collaborate!
 - 📫 How to reach me: eugenia.pastore@gmail.com
 - ⚡ Fun fact: I am writing a magazine about my travel adventures for my grandad to read!
-- <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
