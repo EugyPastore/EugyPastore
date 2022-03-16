@@ -1,9 +1,8 @@
 ### Welcome to my page 👋
-- 🌱 I’m Ruby on Rails developer.
+- 🌱 I’m junior web developer.
 - 👯 I will be more than happy to collaborate on any IT project that has potential for my growth
 - 💬 Let's network!
 - 📫 How to reach me: eugenia.pastore@gmail.com
-- ⚡ Fun fact: I am writing a magazine about my travel adventures for my grandad to read!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
