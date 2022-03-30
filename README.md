@@ -1,7 +1,5 @@
 ### Welcome to my page 👋
 - 🌱 I’m junior web developer.
-- 👯 I will be more than happy to collaborate on any IT project that has potential for my growth
-- 💬 Let's network!
 - 📫 How to reach me: eugenia.pastore@gmail.com
 
 <h3 align="left">Connect with me:</h3>
