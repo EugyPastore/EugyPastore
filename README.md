@@ -1,5 +1,5 @@
 ### Welcome to my page 👋
-- 🌱 I’m junior web developer.
+- 🌱 I’m a junior web developer.
 - 📫 How to reach me: eugenia.pastore@gmail.com
 
 <h3 align="left">Connect with me:</h3>
